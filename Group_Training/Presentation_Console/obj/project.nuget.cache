@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "+RRSHOn3r/Y=",
+  "dgSpecHash": "ukiMg/BSOo4=",
   "success": true,
   "projectFilePath": "/home/querzion/RiderProjects/yh.webut.grupp.001/Group_Training/Presentation_Console/Presentation_Console.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /home/querzion/RiderProjects/yh.webut.grupp.001/Group_Training/Presentation_Console/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
