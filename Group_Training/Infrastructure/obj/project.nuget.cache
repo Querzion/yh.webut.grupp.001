@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q4fkwsRo7MU=",
+  "dgSpecHash": "jxBcp+9w9eQ=",
   "success": true,
-  "projectFilePath": "/home/querzion/RiderProjects/yh.webut.grupp.001/Group_Training/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "C:\\Projects\\yh.webut.grupp.001\\Group_Training\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /home/querzion/RiderProjects/yh.webut.grupp.001/Group_Training/Infrastructure/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
